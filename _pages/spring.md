@@ -1,6 +1,6 @@
 ---
     title: Spring
-    permalink: /categories/spring/
+    permalink: /categories/springPost/spring
     layout: category
     author_profile: true
     taxamony: spring
