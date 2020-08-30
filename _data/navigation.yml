@@ -6,3 +6,5 @@ main:
     url: /categories/java/
   - title: "Algo & Ds"
     url: /categories/algods/
+  - title: Categories
+    url: /categories/
