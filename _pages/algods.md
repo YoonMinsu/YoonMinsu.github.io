@@ -3,5 +3,5 @@
     permalink: /categories/algods/
     layout: category
     author_profile: true
-    taxamony: algods
+    taxonomy: algods
 ---

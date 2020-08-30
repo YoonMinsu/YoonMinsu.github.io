@@ -3,5 +3,5 @@
     permalink: /categories/java/
     layout: category
     author_profile: true
-    taxamony: java
+    taxonomy: java
 ---
