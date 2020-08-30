@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Spring"
-    url: /categories/spring/spring
+    url: springPost/categories/spring
   - title: "Java"
     url: /categories/java/
   - title: "Algo & Ds"
