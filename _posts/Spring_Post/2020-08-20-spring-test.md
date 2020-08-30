@@ -2,7 +2,7 @@
     title: "testPost"
     excerpt: "테스트 포스트입니다."
 
-    categoreis:
+    categories:
         - Spring
     tags:
         - Spring
