@@ -2,11 +2,15 @@
 main:
   - title: "Spring"
     url: /categories/spring/
+    
   - title: "Java"
     url: /categories/java/
+
   - title: "Algo & Ds"
     url: /categories/algods/
+
   - title: "ETC"
     url: /categories/etc/
+
   - title: Categories
     url: /categories/
