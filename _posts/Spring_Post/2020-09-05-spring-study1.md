@@ -40,7 +40,7 @@ public class MemberRegisterService {
 
 이렇게 __한 클래스가 다른 클래스의 메서드를 실행할 때 이를 "의존"한다고 표현한다__ 위 코드는 `MemberRegisterService가 MemberDao 클래스에 의존 한다`고 표현할 수 있다.  
 
-> 의존은 변경에 의해 영향을 받는 관계를 의미한다. 예를 들어 MemberDao의 insert() 메서드의 이름을 insertMember()로 변경하면 이메서드를 사용하는 MemberRegisterService 클래스의 소스 코드도 함께 변경된다. 이렇게 __변경에 따른 영향이 전파되는 관계를 의존한다고 표현한다__
+> 의존은 변경에 의해 영향을 받는 관계를 의미한다. 예를 들어 MemberDao의 insert() 메서드의 이름을 insertMember()로 변경하면 이 메서드를 사용하는 MemberRegisterService 클래스의 소스 코드도 함께 변경된다. 이렇게 __변경에 따른 영향이 전파되는 관계를 의존한다고 표현한다__
 
 
 의존하는 대상을 구하는 가장 쉬운 방법은 의존 대상 객체를 직접 생성하는 것이다. 위 코드도 MemberRegisterService 클래스도 의존 대상인 MemberDao의 객체를 직접 생성에 필드에 할당했다.  
