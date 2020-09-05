@@ -20,7 +20,7 @@ tags :
   - 클라이언트의 요청 경로를 이용해서 이를 처리할 컨트롤러 Bean 객체를 `DispatcherServlert'에 전달한다.
   - ex) 웹 요청 경로가 `/hello`라면 등록된 컨트롤러 Bean 중에서 `/hello` 요청 경로를 처리할 컨트롤러를 리턴한다
 
-`DispatcherServlet`은 `HandlerMapping`이 찾아준 컨트롤러 객체를 처리할 수 있는 `HandlerAdapter`에게 요청 처리를 위임한다.  
+`DispatcherServlet`은 `HandlerMapping`이 찾아준 컨트롤러 객체를 처리할 수 있는 `HandlerAdapter`에게 요청 처리를 위임한다.(3번 과정)
 
 - __HandlerAdapter__
   - 컨트롤러의 알맞은 메서드를 호출해서 요청을 처리하고(4 ~ 5번 과정) 그 결과를 `DispatcherServlet`에게 리턴한다.(6번 과정)
