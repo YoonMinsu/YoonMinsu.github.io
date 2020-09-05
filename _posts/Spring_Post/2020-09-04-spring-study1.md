@@ -8,7 +8,7 @@ tags :
     - Java
 ---
 
-# 1. 스프링 MVC 핵심 구성 요소
+# 스프링 MVC 핵심 구성 요소
 ![run](/assets/img/spring/run.PNG)
 
 
