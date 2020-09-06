@@ -7,7 +7,7 @@ tags :
     - algorithm
     - sort
 ---
-![bubble](/assets/img/algorithm/Bubble-sort.png)
+![bubble](/assets/img/algorithm/Bubble-sort.png)  
 인접한 두 개의 원소를 비교하여 가장 큰 원소가 마지막 자리로 오게해서 숫자를 정렬하는 방법이다. 
 한 번 과정을 거칠때마다 큰 수가 제일 뒤로 위치하게 된다.  
 다음 탐색 부터는 마지막 요소를 제외하고 다시 탐색한다
