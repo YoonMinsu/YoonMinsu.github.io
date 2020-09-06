@@ -8,7 +8,7 @@ tags :
     - sort
 ---
 
-![insertion](../../assets/img/algorithm/insertion-sort.png)  
+![insertion](/assets/img/algorithm/insertion-sort.PNG)  
 차례로 범위를 늘려가며 정렬하는 알고리즘으로, 하나의 값을 선정하고 해당 값을 자신보다 작은 요소를 찾을 때까지 이동하면서 자리를 교환한다. 배열이 길어질 수록 효율이 떨어지지만, 버블 정렬에 비해 좀 더 빠르며 버블정렬과 마찬가지로 구현이 단순하다.  
 
 삽입 정렬은 선택된 값보다 앞에 있는 원소들을 비교하는 것이기 때문에,  
