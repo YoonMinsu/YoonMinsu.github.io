@@ -2,9 +2,10 @@
 title   : "원형 큐"
 excerpt : "CircleQueue-FIFO"
 categories : 
-    - DataStructure
+    - Algods
 tags :
-    - DataStructure
+    - datastructure
+    - queue
 ---
 
 선형 큐의 단점을 보완한 원형 큐이다. 기존에 선형 큐는 front부분에 대해서 다시 활용할 수가 없어 메모리를 낭비한다는 단점이 있다.  
@@ -14,7 +15,7 @@ tags :
 앞에 선형 큐와 기능은 동일하지만 내부 함수의 구현 방식이 달라졌다  
 
 
-```Java
+```java
     public class CircleQueue {
         private int[] qArr;
         private int size;
