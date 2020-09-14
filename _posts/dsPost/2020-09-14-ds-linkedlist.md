@@ -35,7 +35,7 @@ tags :
 ```
 
 ## 특정 노드의 값 가져오기 및 출력하기
-```Java
+```java
     public Object get(int index) {
         return getNode(index).data;
     }
@@ -50,7 +50,7 @@ tags :
 ```
 
 ## 노드 삽입
-```Java
+```java
     public void addFirst(Object data) {
         // 새로운 노드 생성
         Node newNode = new Node(data);
@@ -93,7 +93,7 @@ tags :
 ![insert2](/assets/img/ds/addFirst2.PNG)  
 
 ## 데이터 삭제  
-```Java
+```java
     public Object removeFirst() {
         // 가장 처음에 있는 데이터를 삭제하는 함수이므로 삭제하려는 노드를 헤드노드로 지정한다.
         Node removeNode = headNode;
@@ -111,7 +111,7 @@ tags :
     }
 ```    
 
-```Java
+```java
     public Object remove(int index) {
        if (index == 0) {
            return removeFirst();
@@ -142,7 +142,7 @@ tags :
 ![delete2](/assets/img/ds/del2.PNG)  
 
 ## 모든 데이터 출력  
-```Java
+```java
     public void printAllNode() {
         Node node = headNode;
         if (node == null) {
