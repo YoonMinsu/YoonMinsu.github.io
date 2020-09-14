@@ -279,6 +279,8 @@ defaults:
       comments: true
       share: false
       related: true
+      sidebar:
+        nav: sample-test
 
   # _pages
   - scope:
