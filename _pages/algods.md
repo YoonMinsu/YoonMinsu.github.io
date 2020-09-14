@@ -1,7 +1,7 @@
 ---
-    title: Algo & Ds
-    permalink: /categories/algods/
+    title: Algo
+    permalink: /categories/algo/
     layout: category
     author_profile: true
-    taxonomy: Algods
+    taxonomy: Algo
 ---

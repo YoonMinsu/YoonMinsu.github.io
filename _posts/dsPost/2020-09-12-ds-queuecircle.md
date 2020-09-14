@@ -2,7 +2,7 @@
 title   : "원형 큐"
 excerpt : "CircleQueue-FIFO"
 categories : 
-    - Algods
+    - Ds
 tags :
     - datastructure
     - queue

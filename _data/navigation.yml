@@ -6,8 +6,11 @@ main:
   - title: "Java"
     url: /categories/java/
 
-  - title: "Algo & Ds"
-    url: /categories/algods/
+  - title: "Ds"
+    url: /categories/ds/
+
+  - title: "Algo"
+    url: /categories/algo/
 
   - title: "ETC"
     url: /categories/etc/

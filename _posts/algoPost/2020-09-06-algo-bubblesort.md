@@ -2,7 +2,7 @@
 title   : "버블 정렬(Bubble Sort)"
 excerpt : "Sort"
 categories : 
-    - Algods
+    - Algo
 tags : 
     - algorithm
     - sort

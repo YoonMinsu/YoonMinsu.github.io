@@ -2,7 +2,7 @@
 title   : "퀵 정렬(Quick Sort)"
 excerpt : "Sort"
 categories : 
-    - Algods
+    - Algo
 tags : 
     - algorithm
     - sort

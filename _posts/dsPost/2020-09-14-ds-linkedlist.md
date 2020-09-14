@@ -2,7 +2,7 @@
 title   : "단순 연결 리스트"
 excerpt : "Simple Linked List"
 categories : 
-    - Algods
+    - Ds
 tags :
     - datastructure
 ---

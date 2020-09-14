@@ -2,7 +2,7 @@
 title   : "이중 연결 리스트"
 excerpt : "Doubly Linked List"
 categories : 
-    - Algods
+    - Ds
 tags :
     - datastructure
 ---  
