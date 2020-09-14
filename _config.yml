@@ -281,7 +281,7 @@ defaults:
       share: false
       related: true
       sidebar:
-        nav : sample-test
+        nav : "sample-test"
 
   # _posts
   - scope:
