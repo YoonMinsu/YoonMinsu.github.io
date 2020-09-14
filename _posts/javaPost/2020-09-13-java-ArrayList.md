@@ -1,6 +1,6 @@
 ---
 title   : "ArrayList"
-excerpt : "List"
+excerpt : "Collection Framework-List"
 categories : 
     - Java
 tags : 
