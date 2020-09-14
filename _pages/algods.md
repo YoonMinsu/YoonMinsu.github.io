@@ -2,6 +2,6 @@
     title: Algo
     permalink: /categories/algo/
     layout: category
-    author_profile: true
+    author_profile: false
     taxonomy: Algo
 ---

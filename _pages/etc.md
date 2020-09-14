@@ -2,6 +2,6 @@
     title: ETC
     permalink: /categories/etc/
     layout: category
-    author_profile: true
+    author_profile: false
     taxonomy: etc
 ---
