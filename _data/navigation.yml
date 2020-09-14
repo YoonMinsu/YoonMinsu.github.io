@@ -21,7 +21,7 @@ main:
 
 # sidebar navigation sample
 sample-test:
-  - title: Web
+  - title: "Web"
     children:
       - title: "Spring"
          url : "/categories/spring/"
