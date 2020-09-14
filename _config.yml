@@ -289,11 +289,13 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: false
       related: true
+      sidebar:
+        nav : "sample-test"
 
   # _pages
   - scope:
@@ -306,4 +308,6 @@ defaults:
       comments: false
       share: false
       related: false
+      sidebar:
+        nav : "sample-test"
   
