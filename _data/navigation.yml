@@ -24,4 +24,4 @@ sample-test:
   - title: "Web"
     children:
       - title: "Spring"
-         url : "/categories/spring/"
+        url : "/categories/spring/"
