@@ -23,7 +23,7 @@ sidebar-sample:
   - title: "Back-End"
     children:
       - title: "Spring"
-        url: /
+        url: /categories/spring/
       - title: "DataBase"
         url: /
   - title: "Programming"
