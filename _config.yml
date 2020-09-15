@@ -273,6 +273,8 @@ defaults:
       path: ""
       type: posts
     values:
+      sidebar:
+        nav: "posts"
       layout: single
       author_profile: false
       read_time: true
@@ -280,7 +282,6 @@ defaults:
       share: false
       related: true
 
- 
   # _pages
   - scope:
       path: ""
@@ -288,7 +289,3 @@ defaults:
     valuse:
       layout: single
       author_profile: true
-      read_time: false
-      comments: false
-      share: false
-      related: false
