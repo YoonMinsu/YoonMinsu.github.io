@@ -1,6 +1,6 @@
 ---
 title: "안녕하세요"
 permalink: /about/
-profile: true
+author_profile: true
 layout: single
 ---
