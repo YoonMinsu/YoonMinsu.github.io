@@ -2,7 +2,7 @@
 title   : "병합 정렬(Merge Sort)"
 excerpt : "Sort"
 categories : 
-    - Algo
+    - Algorithm
 tags : 
     - algorithm
     - sort

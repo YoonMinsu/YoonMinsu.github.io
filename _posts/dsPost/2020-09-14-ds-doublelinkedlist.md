@@ -2,7 +2,7 @@
 title   : "이중 연결 리스트"
 excerpt : "Doubly Linked List"
 categories : 
-    - Ds
+    - DataStructure
 tags :
     - datastructure
 ---  

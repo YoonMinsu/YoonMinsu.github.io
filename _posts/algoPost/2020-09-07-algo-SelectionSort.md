@@ -2,7 +2,7 @@
 title   : "선택 정렬(Selection Sort)"
 excerpt : "Sort"
 categories : 
-    - Algo
+    - Algorithm
 tags : 
     - algorithm
     - sort

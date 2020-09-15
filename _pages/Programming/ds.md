@@ -1,9 +1,9 @@
 ---
-    title: Ds
+    title: DataStructure
     permalink: /categories/ds/
     layout: category
     author_profile: false
-    taxonomy: Ds
+    taxonomy: DataStructure
     sidebar: 
         nav: "sidebar-posts"
 ---

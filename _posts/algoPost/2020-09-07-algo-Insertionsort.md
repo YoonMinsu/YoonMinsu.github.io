@@ -2,7 +2,7 @@
 title   : "삽입 정렬(Insertion Sort)"
 excerpt : "Sort"
 categories : 
-    - Algo
+    - Algorithm
 tags : 
     - algorithm
     - sort
