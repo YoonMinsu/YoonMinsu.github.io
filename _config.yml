@@ -279,6 +279,8 @@ defaults:
       comments: true
       share: false
       related: true
+      sidebar:
+        nav: "posts"
 
   # _pages
   - scope:
@@ -287,3 +289,5 @@ defaults:
     valuse:
       layout: single
       author_profile: true
+      sidebar:
+        nav: "posts"
