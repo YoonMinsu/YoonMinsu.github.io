@@ -40,7 +40,7 @@ sidebar-posts:
         url: /
       - title: "Programmers"
         url: /
-  - title: "ETC"
+  - title: "Etc"
     children:
       - title: "Etc"
-      url: /categories/etc/
+        url: /categories/etc/    
