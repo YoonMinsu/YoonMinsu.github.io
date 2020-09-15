@@ -17,11 +17,3 @@ main:
 
   - title: Categories
     url: /categories/
-
-
-# sidebar navigation sample
-sample-test:
-  - title: "Web"
-    children:
-      - title: "Spring"
-        url : "/categories/spring/"
