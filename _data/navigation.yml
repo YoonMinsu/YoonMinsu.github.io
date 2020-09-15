@@ -1,20 +1,5 @@
 # main links
 main:
-  - title: "Spring"
-    url: /categories/spring/
-    
-  - title: "Java"
-    url: /categories/java/
-
-  - title: "Ds"
-    url: /categories/ds/
-
-  - title: "Algo"
-    url: /categories/algo/
-
-  - title: "ETC"
-    url: /categories/etc/
-
   - title: Categories
     url: /categories/
 
@@ -33,7 +18,7 @@ sidebar-posts:
       - title: "Algorithm"
         url: /categories/algo/
       - title: "DataStructure"
-        url: /
+        url: /categories/ds/
   - title: "PS"
     children:
       - title: "BaekJoon"
@@ -42,5 +27,5 @@ sidebar-posts:
         url: /
   - title: "Etc"
     children:
-      - title: "Etc"
+      - title: "etc"
         url: /categories/etc/    
