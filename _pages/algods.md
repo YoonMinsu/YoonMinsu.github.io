@@ -4,5 +4,6 @@
     layout: category
     author_profile: false
     taxonomy: Algo
-    sidebar: "sidebar-sample"
+    sidebar: 
+        nav: "sidebar-sample"
 ---
