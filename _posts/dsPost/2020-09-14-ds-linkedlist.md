@@ -5,6 +5,10 @@ categories :
     - DataStructure
 tags :
     - datastructure
+    - list
+sidebar:
+    title: "DataStructure"
+    nav : sidebar-posts
 ---
 
 # Simple Linked List  

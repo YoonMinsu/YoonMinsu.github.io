@@ -6,6 +6,9 @@ categories :
 tags : 
     - Spring
     - Web
+sidebar:
+    title: "Spring"
+    nav : sidebar-posts
 ---  
 
 앞서 구현한 Assembler 클래스 대신 스프링을 사용하는 코드를 사용해보자.  

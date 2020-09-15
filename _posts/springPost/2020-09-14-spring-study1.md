@@ -6,6 +6,9 @@ categories :
 tags : 
     - Spring
     - Web
+sidebar:
+    title: "Spring"
+    nav : sidebar-posts
 ---
 
 DI를 사용할 때 객체 생성에 사용할 클래스를 변경하기 위해 객체를 주입하는 코드 한 곳만 변경하면 된다.  

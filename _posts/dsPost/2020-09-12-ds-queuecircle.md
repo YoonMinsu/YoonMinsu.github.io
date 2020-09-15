@@ -6,6 +6,9 @@ categories :
 tags :
     - datastructure
     - queue
+sidebar:
+    title: "DataStructure"
+    nav : sidebar-posts
 ---
 
 선형 큐의 단점을 보완한 원형 큐이다. 기존에 선형 큐는 front부분에 대해서 다시 활용할 수가 없어 메모리를 낭비한다는 단점이 있다.  

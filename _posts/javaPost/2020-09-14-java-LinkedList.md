@@ -6,6 +6,9 @@ categories :
 tags : 
     - Java
     - List
+sidebar:
+    title: "Java"
+    nav : sidebar-posts
 ---
 
 배열은 가장 기본적인 형태의 자료구조이다.  

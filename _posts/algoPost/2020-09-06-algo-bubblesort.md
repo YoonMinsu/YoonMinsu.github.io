@@ -6,6 +6,9 @@ categories :
 tags : 
     - algorithm
     - sort
+sidebar:
+    title: "Algorithm"
+    nav : sidebar-posts
 ---
 ![bubble](/assets/img/algorithm/Bubble-sort.png)  
 인접한 두 개의 원소를 비교하여 가장 큰 원소가 마지막 자리로 오게해서 숫자를 정렬하는 방법이다. 

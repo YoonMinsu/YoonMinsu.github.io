@@ -6,6 +6,9 @@ categories :
 tags : 
     - Java
     - Collection
+sidebar:
+    title: "Java"
+    nav : sidebar-posts
 ---
 ![CollectionFramework](/assets/img/java/CF.PNG)
 

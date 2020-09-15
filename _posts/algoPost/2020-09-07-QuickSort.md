@@ -6,6 +6,9 @@ categories :
 tags : 
     - algorithm
     - sort
+sidebar:
+    title: "Algorithm"
+    nav : sidebar-posts
 ---
 
 ## 빠른 정렬, 퀵 정렬  

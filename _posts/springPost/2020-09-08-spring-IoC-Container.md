@@ -7,6 +7,9 @@ tags :
     - Spring
     - Web
     - Java
+sidebar:
+    title: "Spring"
+    nav : sidebar-posts
 ---
 
 # __IoC(Inversion of Control)이란?__    

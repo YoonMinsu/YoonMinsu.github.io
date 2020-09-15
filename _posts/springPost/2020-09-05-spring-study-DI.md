@@ -7,6 +7,9 @@ tags :
     - Spring
     - Web
     - Java
+sidebar:
+    title: "Spring"
+    nav : sidebar-posts
 ---
 
 # 1. 의존이란?

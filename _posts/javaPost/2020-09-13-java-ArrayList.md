@@ -6,6 +6,9 @@ categories :
 tags : 
     - Java
     - List
+sidebar:
+    title: "Java"
+    nav : sidebar-posts
 ---
 
 ArrayList는 List인터페이스를 구현하기 때문에 데이터의 저장 순위가 유지되고 중복을 허용하는 특징을 가지고 있다.  

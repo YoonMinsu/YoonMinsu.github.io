@@ -6,6 +6,9 @@ categories :
 tags : 
     - algorithm
     - sort
+sidebar:
+    title: "Algorithm"
+    nav : sidebar-posts
 ---
 ![merge](/assets/img/algorithm/merge.png)  
 

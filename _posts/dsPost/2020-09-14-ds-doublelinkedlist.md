@@ -5,6 +5,10 @@ categories :
     - DataStructure
 tags :
     - datastructure
+    - list
+sidebar:
+    title: "DataStructure"
+    nav : sidebar-posts
 ---  
 
 # 이중 연결 리스트  

@@ -6,6 +6,9 @@ categories :
 tags : 
     - algorithm
     - sort
+sidebar:
+    title: "Algorithm"
+    nav : sidebar-posts
 ---
 
 ![insertion](/assets/img/algorithm/insertion-sort.PNG)  

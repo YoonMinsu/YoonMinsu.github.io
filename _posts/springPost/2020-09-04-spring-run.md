@@ -7,6 +7,9 @@ tags :
     - Spring
     - Web
     - Java
+sidebar:
+    title: "Spring"
+    nav : sidebar-posts
 ---
 
 # 스프링 MVC 핵심 구성 요소
