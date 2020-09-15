@@ -4,4 +4,5 @@
     layout: category
     author_profile: false
     taxonomy: Ds
+    sidebar_main: true
 ---
