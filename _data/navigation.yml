@@ -8,9 +8,9 @@ sidebar-posts:
   - title: "Back-End"
     children:
       - title: "Spring"
-        url: /categories/database/
+        url: /categories/spring/
       - title: "DataBase"
-        url: /
+        url: /categories/database/
   - title: "Programming"
     children:
       - title: "Java"
