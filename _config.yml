@@ -279,8 +279,6 @@ defaults:
       comments: true
       share: false
       related: true
-      sidebar:
-        nav: "sidebar-test"
 
  
   # _pages
@@ -294,5 +292,3 @@ defaults:
       comments: false
       share: false
       related: false
-      sidebar:
-        nav: "sidebar-test"
