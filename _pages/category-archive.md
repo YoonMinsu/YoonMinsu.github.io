@@ -5,5 +5,4 @@
     author_profile: false
     sidebar: 
         nav: "sidebar-posts"
-
 ---
