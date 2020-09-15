@@ -4,5 +4,6 @@
     layout: category
     author_profile: false
     taxonomy: Java
-    
+    sidebar: 
+        nav: "sidebar-posts"
 ---

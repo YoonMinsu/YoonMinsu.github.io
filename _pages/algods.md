@@ -5,5 +5,5 @@
     author_profile: false
     taxonomy: Algo
     sidebar: 
-        nav: "sidebar-sample"
+        nav: "sidebar-posts"
 ---

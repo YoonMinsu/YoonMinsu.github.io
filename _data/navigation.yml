@@ -19,7 +19,7 @@ main:
     url: /categories/
 
 # sidebar-sample
-sidebar-sample:
+sidebar-posts:
   - title: "Back-End"
     children:
       - title: "Spring"
@@ -29,9 +29,9 @@ sidebar-sample:
   - title: "Programming"
     children:
       - title: "Java"
-        url: /
+        url: /categories/java/
       - title: "Algorithm"
-        url: /
+        url: /categories/algo/
       - title: "DataStructure"
         url: /
   - title: "PS"
@@ -40,3 +40,7 @@ sidebar-sample:
         url: /
       - title: "Programmers"
         url: /
+  - title: "ETC"
+    children:
+      - title: "Etc"
+      url: /categories/etc/

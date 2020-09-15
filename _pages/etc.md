@@ -4,4 +4,6 @@
     layout: category
     author_profile: false
     taxonomy: etc
+    sidebar: 
+        nav: "sidebar-posts"
 ---
