@@ -8,7 +8,7 @@ sidebar-posts:
   - title: "Back-End"
     children:
       - title: "Spring"
-        url: /categories/spring/
+        url: /categories/database/
       - title: "DataBase"
         url: /
   - title: "Programming"
@@ -22,9 +22,9 @@ sidebar-posts:
   - title: "PS"
     children:
       - title: "BaekJoon"
-        url: /
+        url: /categories/BaekJoon/
       - title: "Programmers"
-        url: /
+        url: /categories/programmers/
   - title: "Etc"
     children:
       - title: "etc"
