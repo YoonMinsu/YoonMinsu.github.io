@@ -17,3 +17,10 @@ main:
 
   - title: Categories
     url: /categories/
+
+# 사이드바 테스트
+sidebar-test :
+  - title: "Hello"
+    children:
+      - title: "A"
+        url: "/categories/algo/"
