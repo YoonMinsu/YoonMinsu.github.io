@@ -17,7 +17,7 @@ sidebar:
 
 ![stackQueue](/assets/img/java/stackQueue.PNG)  
 
-__스택__: 마지막에 저장한 데이터를 가장 먼저 꺼내게 되는(LIFO, Last in First Out) 구조 
+__스택__: 마지막에 저장한 데이터를 가장 먼저 꺼내게 되는(LIFO, Last in First Out) 구조  
 __큐__  : 처음에 저장한 데이터를 가장 먼저 꺼내게 되는(FIFO, First in First Out) 구조  
 
 스택의 경우 `0, 1, 2`의 순서로 데이터를 넣었다면 `2, 1, 0`의 순서로 꺼내게된다. 넣은 순서와 꺼낸 순서가 뒤집어진다.  
