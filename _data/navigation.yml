@@ -7,7 +7,7 @@ main:
 
 # sidebar-sample
 sidebar-posts:
-  - title: "Back-End"
+  - title: "WEB"
     children:
       - title: "Spring"
         url: /categories/spring/
