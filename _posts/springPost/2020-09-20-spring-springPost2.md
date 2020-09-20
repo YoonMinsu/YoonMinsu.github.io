@@ -9,7 +9,7 @@ tags :
     - back-end
 sidebar:
     title: "Spring"
-    image: /assets/img/java/springImg.PNG
+    image: https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg
     image_alt: "image"
     nav : sidebar-posts
 ---  
