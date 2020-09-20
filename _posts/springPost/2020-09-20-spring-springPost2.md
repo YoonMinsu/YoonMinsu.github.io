@@ -9,7 +9,7 @@ tags :
     - back-end
 sidebar:
     title: "Spring"
-    image: http://placehold.it/350x250
+    image: "http://placehold.it/350x250"
     image_alt: "image"
     nav : sidebar-posts
 ---  
