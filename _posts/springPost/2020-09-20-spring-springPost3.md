@@ -11,6 +11,7 @@ sidebar:
     title: "Spring"
     nav : sidebar-posts
 ---  
+![springFramework](/assets/img/spring/springImg.png)  
 
 지금까지의 스프링 버전에서는 컴포넌트 및 다른 컴포넌트와의 관계를 나타내는 하나 이상의 XML파일을 사용해 빈을 상호 연결하도록 컨테이너에게 알려주었다.  
 
