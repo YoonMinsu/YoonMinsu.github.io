@@ -9,6 +9,8 @@ tags :
     - back-end
 sidebar:
     title: "Spring"
+    image: /assets/img/java/springImg.PNG
+    image_alt: "image"
     nav : sidebar-posts
 ---  
 ![springFramework](/assets/img/spring/springImg.png)  
