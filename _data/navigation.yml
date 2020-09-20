@@ -7,12 +7,14 @@ main:
 
 # sidebar-sample
 sidebar-posts:
-  - title: "WEB"
+  - title: "BACK-END"
     children:
       - title: "Spring"
         url: /categories/spring/
       - title: "DataBase"
         url: /categories/database/
+      - title: "Web"
+        url: /categories/web/
   - title: "Programming"
     children:
       - title: "Java"
