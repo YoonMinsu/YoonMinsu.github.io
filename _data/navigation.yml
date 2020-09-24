@@ -13,7 +13,7 @@ sidebar-posts:
         url: /categories/java/
       - title: "스프링"
         url: /categories/spring/
-      - title: "이론"
+      - title: "웹"
         url: /categories/web/
   - title: "데이터베이스"
     children:
