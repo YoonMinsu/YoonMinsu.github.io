@@ -1,9 +1,9 @@
 ---
-    title: Algorithm
-    permalink: /categories/algo/
+    title: Web
+    permalink: /categories/web/
     layout: category
     author_profile: false
-    taxonomy: Algorithm
+    taxonomy: web
     sidebar: 
         nav: "sidebar-posts"
 ---

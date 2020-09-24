@@ -7,29 +7,15 @@ main:
 
 # sidebar-sample
 sidebar-posts:
-  - title: "BACK-END"
+  - title: "웹 프로그래밍"
     children:
-      - title: "Spring"
-        url: /categories/spring/
-      - title: "DataBase"
-        url: /categories/database/
-      - title: "Web"
-        url: /categories/web/
-  - title: "Programming"
-    children:
-      - title: "Java"
+      - title: "자바"
         url: /categories/java/
-      - title: "Algorithm"
-        url: /categories/algo/
-      - title: "DataStructure"
-        url: /categories/ds/
-  - title: "PS"
+      - title: "스프링"
+        url: /categories/spring/
+      - title: "이론"
+        url: /categories/web/
+  - title: "데이터베이스"
     children:
-      - title: "BaekJoon"
-        url: /categories/BaekJoon/
-      - title: "Programmers"
-        url: /categories/programmers/
-  - title: "Etc"
-    children:
-      - title: "etc"
-        url: /categories/etc/    
+      - title: "이론"
+        url: /categories/database/
