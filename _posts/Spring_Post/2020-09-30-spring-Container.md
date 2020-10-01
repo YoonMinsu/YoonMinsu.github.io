@@ -10,7 +10,6 @@ sidebar:
     title: "Spring"
     nav : sidebar-posts
 ---  
-
 ### 스프링은 객체 컨테이너  
 
 스프링의 핵심 기능은 객체를 생성하고 초기화 하는 것이다.  
