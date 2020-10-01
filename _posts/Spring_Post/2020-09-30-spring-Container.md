@@ -27,7 +27,7 @@ __AnnotationConfigureAppplicationContext__ 라는 클래스를 사용하면 된�
 
 간단한 계층도를 살펴보자 원래는 이 외에 더 많은 인터페이스가 존재한다.  
 
-![container](/assets/img/spring/container.png)  
+![container](/assets/img/spring/Container.png)  
 __[참고 - 초보 웹 개발자를 위한 스프링5 프로그래밍 입문 49P]__  
 
 위 계층도를 보면 가장 상위의 BeanFactory 인터페이스가 존재한다.  
