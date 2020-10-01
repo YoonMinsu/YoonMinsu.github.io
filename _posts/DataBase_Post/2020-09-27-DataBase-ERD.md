@@ -74,7 +74,16 @@ __테이블간의 관계를 맺을때 대표키를 이용하여 관계를 맺는
 
 N:M 관계 에서는 서로의 PK가 자신의 외래키 컬럼으로 가지고 있으면 된다.  
 
+### Crow's Foot Notation  
 
+관계의 의미나 제약조건 등은 개체 타입들을 연결하는 실선 위에 몇가지 기호를 사용하여 표현하는 표기법이다.  
+
+__사용되는 기호__  
+
+![Crow](/assets/img/database/crow.PNG)  
+
+예시 
+![ex](/assets/img/database/ex.PNG)
 참조  
 - <http://www.dbguide.net/db.db?cmd=view&boardUid=12851&boardConfigUid=9&categoryUid=216&boardIdx=40&boardStep=1>
 - <https://victorydntmd.tistory.com/30>
