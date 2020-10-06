@@ -3,7 +3,7 @@
     permalink: /categories/web/
     layout: category
     author_profile: false
-    taxonomy: web
+    taxonomy: Web
     sidebar: 
         nav: "sidebar-posts"
 ---
