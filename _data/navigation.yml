@@ -19,3 +19,5 @@ sidebar-posts:
     children:
       - title: "이론"
         url: /categories/database/
+      - title: "SQL"
+        url: /categories/sql/
