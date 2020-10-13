@@ -15,6 +15,8 @@ sidebar-posts:
         url: /categories/spring/
       - title: "웹"
         url: /categories/web/
+      - title: JPA
+        url: /categories/jpa/
   - title: "데이터베이스"
     children:
       - title: "이론"
