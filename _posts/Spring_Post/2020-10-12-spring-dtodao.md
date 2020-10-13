@@ -1,5 +1,5 @@
 ---
-title   : "Spring web 계층"
+title   : "Spring 계층 구조"
 categories : 
     - Spring
 tags : 
@@ -29,10 +29,14 @@ sidebar:
 - DataBase와 같이 데이터 저장소에 접근하는 영역이다.  
 - DAO(Data Access Object)영역 이라고 생각하면 쉽다.  
 
+>DAO: DB를 사용해 데이터를 조회하거나 조작하는 기능을 전담하도록 만든 객체  
+
 ### DTOs  
 
 - DTO(Data Transger Object)는 **계층 간에 데이터 교환을 위한 객체**를 이야기 하며 DTOs는 이들의 영역을 의미한다.  
 - 예를 들어 뷰 템플릿 엔진에서 사용될 객체나 Repository Layer에서 결과로 넘겨준 객체 등이 이들을 이야기 한다.  
+
+>DTO: 데이터를 각 레이어 간에 전달하는 목적을가지며 객체의 속성과 getter, setter만 가지고 있다.  
 
 ### Domain Model  
 
